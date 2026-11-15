@@ -4,9 +4,9 @@
 
 > 推开门的那一刻，灯灭了。
 
-<img width="1080" height="750" alt="screenshot-03" src="https://github.com/user-attachments/assets/940dbfe5-598f-4199-a8c6-27f0a2375116" />
-<img width="1080" height="750" alt="screenshot-02" src="https://github.com/user-attachments/assets/28c8f2bf-c4b2-4ba5-a870-7b88771a5842" />
-<img width="1080" height="750" alt="screenshot-01" src="https://github.com/user-attachments/assets/2b8bb246-a7c1-487b-b05e-45c798b06cbf" />
+<img width="580" height="380" alt="screenshot-03" src="https://github.com/user-attachments/assets/940dbfe5-598f-4199-a8c6-27f0a2375116" />
+<img width="580" height="380" alt="screenshot-02" src="https://github.com/user-attachments/assets/28c8f2bf-c4b2-4ba5-a870-7b88771a5842" />
+<img width="580" height="380" alt="screenshot-01" src="https://github.com/user-attachments/assets/2b8bb246-a7c1-487b-b05e-45c798b06cbf" />
 
 ---
 
