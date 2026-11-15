@@ -23,7 +23,7 @@
 ## 下载
 
 **推荐：直接下载**
-[光逝_v1.0_Windows.zip](../../releases/latest)（约 290 MB，无需登录）
+[光逝_v1.0_Windows.zip](../../releases/latest)（约 216 MB，无需登录）
 
 **备用：百度网盘**
 https://pan.baidu.com/s/1MuvXbSG_lEjdEygzCVzGGQ?pwd=89XK
