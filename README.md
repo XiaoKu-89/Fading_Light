@@ -20,11 +20,10 @@
 
 ## 下载
 
-| 平台 | 说明 |
-|---|---|
-| Windows 10/11 x64 | [网盘链接](<待填>) |
+**百度网盘**：https://pan.baidu.com/s/1MuvXbSG_lEjdEygzCVzGGQ?pwd=89XK
+**提取码**：`89XK`
 
-解压后双击 `HorrorTest.exe`。首次启动较慢，请等待。
+下载后解压，双击 `HorrorTest.exe`。首次启动较慢，请等待。
 
 ## 操作
 
