@@ -1,0 +1,57 @@
+# ==========================================
+# Unreal Engine 工程 .gitignore
+# 排除所有构建产物，只保留源码与配置
+# ==========================================
+
+# ---- 编译输出 ----
+Binaries/
+Build/
+Intermediate/
+DerivedDataCache/
+.vs/
+*.sln
+*.suo
+*.VC.db
+*.opensdf
+*.sdf
+*.opendb
+*.VC.opendb
+
+# ---- 打包产物 ----
+Packaged/
+
+# ---- Saved 整个目录（全部是本地生成物，不含任何需要版本控制的内容）----
+# 包含：StagedBuilds / Cooked / Shaders / Autosaves / Crashes / Logs / Config
+Saved/
+
+# ---- 临时与日志 ----
+*.log
+*.tmp
+*.bak
+*.bak-*
+*.tmp-*
+
+# ---- 操作系统 ----
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---- IDE ----
+.idea/
+.vscode/
+*.code-workspace
+
+# ---- 本项目特有：临时与运营文件 ----
+# 诊断截图（MCP 抓的视口图，本地调试用）
+_diag/
+# 发布运营文案（不放公开仓库）
+发布文案.md
+*.bak
+*.bak-*
+
+# ---- 保留以下内容（不要排除）----
+# Content/            游戏资源（必须传）
+# Config/             项目配置（必须传）
+# *.uproject          项目文件（必须传）
+# _RawAssets/         原始素材（如需留档）
+# NOTICES.txt         版权声明
